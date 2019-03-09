@@ -193,10 +193,7 @@
               <i class="iconfont">&#xe6fe;</i>
               <span>智能办公平台&nbsp;v1.0</span>
             </div>
-            <div class="copyright-name">
-              <span>Copyright&nbsp;©&nbsp;2015&nbsp;-&nbsp;2016&nbsp;疯狂软件-分享知识，传递希望&nbsp;版权所有</span>
-              <i class="iconfont" >&#xe6ff;</i>
-            </div>
+
         </div>
     </div>
 </body> 
